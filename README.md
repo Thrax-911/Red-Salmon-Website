@@ -1,8 +1,3 @@
----
-
-# 📄 README.md
-
-markdown
 # 🐟 Red Salmon Website
 
 ## 📌 Introduction
@@ -25,6 +20,19 @@ It can be used as a learning project for web development or as a base template f
 - [Troubleshooting](#-troubleshooting)
 - [Contributors](#-contributors)
 - [License](#-license)
+
+---
+
+## ✨ Features
+- Responsive website layout
+- Clean and organized UI
+- Modern styling
+- Easy to customize
+- Beginner-friendly structure
+
+---
+
+## 📂 Project Structure
 
 ---
 
