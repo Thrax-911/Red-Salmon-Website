@@ -175,14 +175,3 @@ This project is licensed under the MIT License.
 You are free to use, modify, and distribute this project with attribution.
 
 ```
-
----
-
-✅ لو حابب كمان أعمل لك:  
-- **README احترافي أقوى (Level GitHub Projects)**  
-- فيه **Screenshots + Demo + Badges + Deployment + Tech Stack**  
-- ويخلي الريبو شكله **احترافي قدام الشركات**
-
-قولّي وأنا أظبطه لك.
-::contentReference[oaicite:1]{index=1}
-```
