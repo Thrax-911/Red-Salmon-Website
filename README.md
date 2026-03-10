@@ -2,7 +2,7 @@
 
 # 📄 README.md
 
-```markdown
+markdown
 # 🐟 Red Salmon Website
 
 ## 📌 Introduction
